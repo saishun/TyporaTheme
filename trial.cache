@@ -3,26 +3,24 @@ auth_path  user
 auto_invite  F
 banned_domains  tmpnator.live  smartnator.com  xxxhi.cc  lista.cc  femailtor.com  mydefipet.live  psnator.com  snapmail.cc  ipiso.tmmad.com  x866.cc  lyx13.xyz  vapeuccino.com  bccto.cc  huiplay.com  adtgng.tmmad.com  jkb.tmmad.com  lplso.tmmad.com  51788.top  wwobs.com  965.tmmad.com  wfes.site  rgzx.tmmad.com  12316hfk.com  mxl001.win  mail.shouyou789.com  tomystudio.com  25ua.com  jkd.tmmad.com  lpl1so.tmmad.com  mail.wvwvw.tech  deomail.top  vapelato.com  pastryofistanbul.com  guerrillamail.de  spam4.me  bookmorpho.cfd  JKD.TMMAD.COM  questtechsystems.com  xdanae.com
 buy  pass
-email  ddevvnobg48@guerrillamail.org
-last_checkin  2025-10-28 16:12:39.512225+08:00
+email  ewtlexwy792@youxiang.dev
+last_checkin  2025-10-29 01:09:16.639095+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  1.964G  1.252G  2025-10-29 16:12:39+08:00  (剩余 -729.3M 15:23:58.268905)
-sub_url  https://network.ayucloud.nl/link/2F3s3QhByp4T2Kz2?clash=1
-time  2025-10-28 16:12:40.435289+08:00
+sub_info  0B  1.048G  2025-10-30 01:09:16+08:00  (剩余 1.048G 23:59:54.509111)
+sub_url  https://network.ayucloud.nl/link/u3g4wg3Y7GbsH4Rh?clash=1
+time  2025-10-29 01:09:17.497065+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(thybear91@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc2ba7dba90>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vdsnidu358@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc2ba7d9990>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(tjvfztjo450@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f837358fc10>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 name  抱歉，站点已暂停
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(blhgfwud475@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(ycsoiidvw940@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [vipxgyun.com]
