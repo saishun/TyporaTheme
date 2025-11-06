@@ -9717,6 +9717,4 @@ rules:
 - IP-CIDR,223.255.0.0/17,DIRECT,no-resolve
 - IP-CIDR,223.255.236.0/22,DIRECT,no-resolve
 - IP-CIDR,223.255.252.0/23,DIRECT,no-resolve
-- DOMAIN-SUFFIX,wxdown.org,DIRECT
-- GEOIP,CN,DIRECT
 - MATCH,🚀 节点选择
