@@ -7,21 +7,21 @@ email  dkudggd856@sharklasers.com
 last_checkin  2025-11-08 21:36:48.750961+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  1.866G  1.219G  2025-11-09 21:36:48+08:00  (剩余 -663.2M 22:04:05.966697)
+sub_info  1.866G  1.219G  2025-11-09 21:36:48+08:00  (剩余 -663.2M 21:28:05.360216)
 sub_url  https://network.ayucloud.nl/link/VFsUBmmZco4kwC6r?clash=1
 time  2025-11-08 21:36:49.708349+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(lucduop710@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(sloccbvnn661@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(kzfzbpsy552@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f86379a2980>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(ymjbaagw467@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f11cc5af100>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 name  抱歉，站点已暂停
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(tngqandkp878@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(necdlxci864@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [vipxgyun.com]
