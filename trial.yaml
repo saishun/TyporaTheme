@@ -1245,6 +1245,7 @@ rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
 - DOMAIN-SUFFIX,ip6-loopback,DIRECT
+- DOMAIN-SUFFIX,internal,DIRECT
 - DOMAIN-SUFFIX,lan,DIRECT
 - DOMAIN-SUFFIX,local,DIRECT
 - DOMAIN-SUFFIX,localhost,DIRECT
@@ -1252,6 +1253,7 @@ rules:
 - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
 - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
 - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+- IP-CIDR,169.254.0.0/16,DIRECT,no-resolve
 - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
 - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
 - IP-CIDR,198.18.0.0/16,DIRECT,no-resolve
@@ -1359,6 +1361,7 @@ rules:
 - DOMAIN-SUFFIX,aliapp.org,DIRECT
 - DOMAIN-SUFFIX,alibaba.com,DIRECT
 - DOMAIN-SUFFIX,alibabacloud.com,DIRECT
+- DOMAIN-SUFFIX,alibabachengdun.com,DIRECT
 - DOMAIN-SUFFIX,alibabausercontent.com,DIRECT
 - DOMAIN-SUFFIX,alicloudccp.com,DIRECT
 - DOMAIN-SUFFIX,aliexpress.com,DIRECT
@@ -1374,6 +1377,7 @@ rules:
 - DOMAIN-SUFFIX,autonavi.com,DIRECT
 - DOMAIN-SUFFIX,dingtalk.com,DIRECT
 - DOMAIN-SUFFIX,ele.me,DIRECT
+- DOMAIN-SUFFIX,elemecdn.com,DIRECT
 - DOMAIN-SUFFIX,hichina.com,DIRECT
 - DOMAIN-SUFFIX,mmstat.com,DIRECT
 - DOMAIN-SUFFIX,mxhichina.com,DIRECT
@@ -1672,6 +1676,7 @@ rules:
 - DOMAIN-SUFFIX,air-matters.io,DIRECT
 - DOMAIN-SUFFIX,aixifan.com,DIRECT
 - DOMAIN-SUFFIX,algocasts.io,DIRECT
+- DOMAIN-SUFFIX,asklink.com,DIRECT
 - DOMAIN-SUFFIX,babytree.com,DIRECT
 - DOMAIN-SUFFIX,babytreeimg.com,DIRECT
 - DOMAIN-SUFFIX,baicizhan.com,DIRECT
