@@ -4,27 +4,26 @@ auto_invite  F
 banned_domains  tmpnator.live  smartnator.com  xxxhi.cc  lista.cc  femailtor.com  mydefipet.live  psnator.com  snapmail.cc  ipiso.tmmad.com  x866.cc  lyx13.xyz  vapeuccino.com  bccto.cc  huiplay.com  adtgng.tmmad.com  jkb.tmmad.com  lplso.tmmad.com  51788.top  wwobs.com  965.tmmad.com  wfes.site  rgzx.tmmad.com  12316hfk.com  mxl001.win  mail.shouyou789.com  tomystudio.com  25ua.com  jkd.tmmad.com  lpl1so.tmmad.com  mail.wvwvw.tech  deomail.top  vapelato.com  pastryofistanbul.com  guerrillamail.de  spam4.me  bookmorpho.cfd  JKD.TMMAD.COM  questtechsystems.com  xdanae.com  442587.xyz  XDANAE.COM  lushenticbag.com  moakt.ws  vapesculpt.com
 buy  pass
 email  srusrsyf206@linshiyou.com
-last_checkin  2025-12-16 02:51:24.951682+08:00
+last_checkin  2025-12-17 01:43:42.979050+08:00
 name  AyucLouD-Services
 node_n  105
 sub_info  1.468G  1.224G  2025-11-23 08:40:05+08:00  (剩余 -250.3M 1:06:22.303950)
 sub_url  https://network.ayucloud.nl/link/rAPJYni3S9gW1qul?clash=1
 time  2025-11-22 08:40:07.440649+08:00
 type  sspanel
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 8, column 27: <title>limbopro.cyou | 521: Web server is down</title> ^ (line: 8)
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  发送邮箱验证码失败(pdhgziwqt135@tmpeml.com): {'ret': 0, 'msg': '该邮箱后缀不允许注册，若您需要其他有效的邮箱后缀注册，请联系客服部门<br>当前仅允许的邮箱后缀为：gmail.com、qq.com、outlook.com、163.com、126.com、yeah.net、foxmail.com、sina.com、hotmail.com'}
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(eieunaom260@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed 'Method Not Allowed')
+更新订阅链接/续费续签失败  注册失败(tyiqvga366@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed 'Method Not Allowed')
 
 [cyanmori.com]
 name  抱歉，站点已暂停
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(zkkhbft568@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(jyyhbeub7@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [vipxgyun.com]
