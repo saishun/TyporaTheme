@@ -13,20 +13,20 @@ time  2025-11-22 08:40:07.440649+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新旧订阅失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(dbejhngz601@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f57b3433940>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(bdukkoakb69@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f2dd26cb820>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
 
 [cyanmori.com]
 name  抱歉，站点已暂停
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(hnmomjp404@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\n<head><title>404 Not Found</title></head>\n<body>\n<center><h1>404 Not Found</h1></center>\n<hr><center>nginx</center>\n</body>\n</html>')
+更新订阅链接/续费续签失败  注册失败(ubyaqac900@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\n<head><title>404 Not Found</title></head>\n<body>\n<center><h1>404 Not Found</h1></center>\n<hr><center>nginx</center>\n</body>\n</html>')
 
 [vipxgyun.com]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(eckczfdyr575@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '')
+更新订阅链接/续费续签失败  注册失败(mjuukfcdq769@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '')
