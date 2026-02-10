@@ -13,20 +13,20 @@ time  2025-11-22 08:40:07.440649+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  发送邮箱验证码失败(sexojjij4@tmpbox.net): {'ret': 0, 'msg': '该邮箱后缀不允许注册，若您需要其他有效的邮箱后缀注册，请联系客服部门<br>当前仅允许的邮箱后缀为：gmail.com、qq.com、outlook.com、163.com、126.com、yeah.net、foxmail.com、sina.com、hotmail.com'}
+更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "u" at column 14
 type  v2board
-更新订阅链接/续费续签失败  注册失败(nxsqypag917@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f77f07bfb20>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(oqkyvlph371@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<HTTPSConnection(host='ww38.qlgq.top', port=443) at 0x7f3009d91f90>, 'Connection to ww38.qlgq.top timed out. (connect timeout=30)'))
 
 [cyanmori.com]
 name  抱歉，站点已暂停
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(apsfbifhx856@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\n<head><title>404 Not Found</title></head>\n<body>\n<center><h1>404 Not Found</h1></center>\n<hr><center>nginx</center>\n</body>\n</html>')
+更新订阅链接/续费续签失败  注册失败(gwblopnxd398@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\n<head><title>404 Not Found</title></head>\n<body>\n<center><h1>404 Not Found</h1></center>\n<hr><center>nginx</center>\n</body>\n</html>')
 
 [vipxgyun.com]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(smffpwclm416@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '')
+更新订阅链接/续费续签失败  注册失败(cluhnvwd623@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '')
