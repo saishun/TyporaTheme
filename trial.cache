@@ -2,7 +2,7 @@
 auth_path  user
 name  AyucLouD-Services
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(fgyvnnyeh489@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by NewConnectionError("HTTPSConnection(host='ayucloud.services', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+更新订阅链接/续费续签失败  注册失败(gvodriwzs300@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
