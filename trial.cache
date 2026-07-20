@@ -2,7 +2,7 @@
 auth_path  user
 name  AyucLouD-Services
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(gvodriwzs300@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新订阅链接/续费续签失败  发送邮箱验证码失败(jlsvpnp723@tmpmail.net): {'ret': 0, 'msg': '该邮箱后缀不允许注册，若您需要其他有效的邮箱后缀注册，请联系客服部门<br>当前仅允许的邮箱后缀为：gmail.com、qq.com、outlook.com、163.com、126.com、yeah.net、foxmail.com、sina.com、hotmail.com'}
 
 [qlgq.top]
 
