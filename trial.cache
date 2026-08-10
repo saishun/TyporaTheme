@@ -2,12 +2,12 @@
 auth_path  user
 name  AyucLouD-Services
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(lbcvufy144@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  发送邮箱验证码失败(eghojhsj437@teihu.com): {'ret': 0, 'msg': '该邮箱后缀不允许注册，若您需要其他有效的邮箱后缀注册，请联系客服部门<br>当前仅允许的邮箱后缀为：gmail.com、qq.com、outlook.com、163.com、126.com、yeah.net、foxmail.com、sina.com、hotmail.com'}
 
 [qlgq.top]
 name  qlgq.top
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(ecbeauq729@gmail.com): HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'qlgq.top'. (_ssl.c:1017)")))
+更新订阅链接/续费续签失败  注册失败(cevtuhjb424@gmail.com): HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'qlgq.top'. (_ssl.c:1017)")))
 
 [cyanmori.com]
 
