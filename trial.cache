@@ -2,12 +2,12 @@
 auth_path  user
 name  AyucLouD-Services
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(cgpkjzh12@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(kkozvjsa598@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(xjbbdvgs844@gmail.com): HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("HTTPSConnection(host='qlgq.top', port=443): Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(ghfjqiolc665@gmail.com): HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("HTTPSConnection(host='qlgq.top', port=443): Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 
