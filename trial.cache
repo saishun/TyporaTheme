@@ -2,12 +2,12 @@
 auth_path  user
 name  AyucLouD-Services
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(vratgoqng670@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新订阅链接/续费续签失败  注册失败(rwndrppvy494@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(wzthkzxx36@gmail.com): HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("HTTPSConnection(host='qlgq.top', port=443): Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(yodahzgy880@gmail.com): HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /auth/register (Caused by NameResolutionError("HTTPSConnection(host='qlgq.top', port=443): Failed to resolve 'qlgq.top' ([Errno -2] Name or service not known)"))
 
 [cyanmori.com]
 
