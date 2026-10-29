@@ -2,12 +2,12 @@
 auth_path  user
 name  AyucLouD-Services
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(fttowiknq752@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(jmjviifr128@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 error  'NoneType' object has no attribute 'text'
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(dezhrtd590@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '<html>\r\n<head><title>302 Found</title></head>\r\n<body>\r\n<center><h1>302 Found</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n')
+更新订阅链接/续费续签失败  注册失败(ttfqzmuqv246@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '<html>\r\n<head><title>302 Found</title></head>\r\n<body>\r\n<center><h1>302 Found</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n')
 
 [cyanmori.com]
 
